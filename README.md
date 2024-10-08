@@ -36,12 +36,14 @@ This tool provides a powerful way to model crowd dynamics and experiment with di
 [![View Project](https://img.shields.io/badge/View%20on%20GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/nahel-b/SimuCrowd)
 
 ---
-
 ### 🤝 Association App
-Built for a non-profit organization, this React Native app helps communities connect and organize. Key features include:
-- 📅 **Event organization** to bring members together
-- 🗣️ **Social interactions** like comments, likes, and community messages
-- 💬 **Communication tools** to foster collaboration and engagement within the community
+
+Designed for a non-profit organization, this React Native app helps communities connect and organize. Key features include:
+
+- 📅 **Event Management**: Share event details, dates, and descriptions.
+- 🏆 **Real-Time Leaderboard**: Display a live ranking of challenges organized by the association.
+- 💬 **Communication Tools**: Facilitate interactions and engagement within the community.
+
 
 [![View Project](https://img.shields.io/badge/View%20on%20GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/nahel/liste-app)
 
