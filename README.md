@@ -43,7 +43,7 @@ Built for a non-profit organization, this React Native app helps communities con
 - 🗣️ **Social interactions** like comments, likes, and community messages
 - 💬 **Communication tools** to foster collaboration and engagement within the community
 
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/nahel/association-app)
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/nahel/liste-app)
 
 ---
 
